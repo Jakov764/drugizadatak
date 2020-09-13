@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\drugiZadatak\drugiZadatak\bin\Debug\netcoreapp3.1\drugiZadatak.exe
+C:\Users\Lenovo\source\repos\drugiZadatak\drugiZadatak\bin\Debug\netcoreapp3.1\drugiZadatak.deps.json
+C:\Users\Lenovo\source\repos\drugiZadatak\drugiZadatak\bin\Debug\netcoreapp3.1\drugiZadatak.runtimeconfig.json
+C:\Users\Lenovo\source\repos\drugiZadatak\drugiZadatak\bin\Debug\netcoreapp3.1\drugiZadatak.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\drugiZadatak\drugiZadatak\bin\Debug\netcoreapp3.1\drugiZadatak.dll
+C:\Users\Lenovo\source\repos\drugiZadatak\drugiZadatak\bin\Debug\netcoreapp3.1\drugiZadatak.pdb
+C:\Users\Lenovo\source\repos\drugiZadatak\drugiZadatak\obj\Debug\netcoreapp3.1\drugiZadatak.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\drugiZadatak\drugiZadatak\obj\Debug\netcoreapp3.1\drugiZadatak.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\drugiZadatak\drugiZadatak\obj\Debug\netcoreapp3.1\drugiZadatak.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\drugiZadatak\drugiZadatak\obj\Debug\netcoreapp3.1\drugiZadatak.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\drugiZadatak\drugiZadatak\obj\Debug\netcoreapp3.1\drugiZadatak.dll
+C:\Users\Lenovo\source\repos\drugiZadatak\drugiZadatak\obj\Debug\netcoreapp3.1\drugiZadatak.pdb
+C:\Users\Lenovo\source\repos\drugiZadatak\drugiZadatak\obj\Debug\netcoreapp3.1\drugiZadatak.genruntimeconfig.cache
